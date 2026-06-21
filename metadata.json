@@ -1,0 +1,6 @@
+{
+  "name": "Dilla Radio",
+  "description": "An infinite generative beat-scape inspired by the legendary J Dilla. Featuring unquantized swing, soulful textures, and a signature 'drunken' groove.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["audio"]
+}
